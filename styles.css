@@ -593,7 +593,7 @@ button:hover {
   background-repeat: no-repeat;
   background-position: bottom;
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   height: 100vh;
   justify-content: center;
   align-items: center;
